@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Zarkprogame\\MyCode\\Aitana\\NorthWind\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0FA27704-1D33-4BFE-8C2C-1D8ABBCF0C85}|NorthWind.Entities\\NorthWind.Entities.csproj|c:\\users\\zarkprogame\\mycode\\aitana\\northwind\\northwind.entities\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FA27704-1D33-4BFE-8C2C-1D8ABBCF0C85}|NorthWind.Entities\\NorthWind.Entities.csproj|solutionrelative:northwind.entities\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 138,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\Zarkprogame\\MyCode\\Aitana\\NorthWind\\NorthWind.Entities\\Class1.cs",
+              "RelativeDocumentMoniker": "NorthWind.Entities\\Class1.cs",
+              "ToolTip": "C:\\Users\\Zarkprogame\\MyCode\\Aitana\\NorthWind\\NorthWind.Entities\\Class1.cs",
+              "RelativeToolTip": "NorthWind.Entities\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T19:34:07.563Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
