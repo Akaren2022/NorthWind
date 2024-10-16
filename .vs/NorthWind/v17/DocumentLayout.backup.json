@@ -3,8 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\Zarkprogame\\MyCode\\Aitana\\NorthWind\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0FA27704-1D33-4BFE-8C2C-1D8ABBCF0C85}|NorthWind.Entities\\NorthWind.Entities.csproj|c:\\users\\zarkprogame\\mycode\\aitana\\northwind\\northwind.entities\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0FA27704-1D33-4BFE-8C2C-1D8ABBCF0C85}|NorthWind.Entities\\NorthWind.Entities.csproj|solutionrelative:northwind.entities\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0FA27704-1D33-4BFE-8C2C-1D8ABBCF0C85}|NorthWind.Entities\\NorthWind.Entities.csproj|c:\\users\\zarkprogame\\mycode\\aitana\\northwind\\northwind.entities\\interfaces\\iuseractionwriter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FA27704-1D33-4BFE-8C2C-1D8ABBCF0C85}|NorthWind.Entities\\NorthWind.Entities.csproj|solutionrelative:northwind.entities\\interfaces\\iuseractionwriter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FA27704-1D33-4BFE-8C2C-1D8ABBCF0C85}|NorthWind.Entities\\NorthWind.Entities.csproj|c:\\users\\zarkprogame\\mycode\\aitana\\northwind\\northwind.entities\\valueobjects\\useraction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FA27704-1D33-4BFE-8C2C-1D8ABBCF0C85}|NorthWind.Entities\\NorthWind.Entities.csproj|solutionrelative:northwind.entities\\valueobjects\\useraction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,28 +18,41 @@
       "DocumentGroups": [
         {
           "DockedWidth": 138,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\Users\\Zarkprogame\\MyCode\\Aitana\\NorthWind\\NorthWind.Entities\\Class1.cs",
-              "RelativeDocumentMoniker": "NorthWind.Entities\\Class1.cs",
-              "ToolTip": "C:\\Users\\Zarkprogame\\MyCode\\Aitana\\NorthWind\\NorthWind.Entities\\Class1.cs",
-              "RelativeToolTip": "NorthWind.Entities\\Class1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "IUserActionWriter.cs",
+              "DocumentMoniker": "C:\\Users\\Zarkprogame\\MyCode\\Aitana\\NorthWind\\NorthWind.Entities\\Interfaces\\IUserActionWriter.cs",
+              "RelativeDocumentMoniker": "NorthWind.Entities\\Interfaces\\IUserActionWriter.cs",
+              "ToolTip": "C:\\Users\\Zarkprogame\\MyCode\\Aitana\\NorthWind\\NorthWind.Entities\\Interfaces\\IUserActionWriter.cs",
+              "RelativeToolTip": "NorthWind.Entities\\Interfaces\\IUserActionWriter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-12T19:34:07.563Z",
+              "WhenOpened": "2024-10-16T03:17:06.834Z",
               "EditorCaption": ""
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserAction.cs",
+              "DocumentMoniker": "C:\\Users\\Zarkprogame\\MyCode\\Aitana\\NorthWind\\NorthWind.Entities\\ValueObjects\\UserAction.cs",
+              "RelativeDocumentMoniker": "NorthWind.Entities\\ValueObjects\\UserAction.cs",
+              "ToolTip": "C:\\Users\\Zarkprogame\\MyCode\\Aitana\\NorthWind\\NorthWind.Entities\\ValueObjects\\UserAction.cs",
+              "RelativeToolTip": "NorthWind.Entities\\ValueObjects\\UserAction.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T03:13:31.124Z",
+              "EditorCaption": ""
             }
           ]
         }
