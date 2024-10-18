@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("NorthWind.ConsoleApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+21b75c5c52a421e8afb3f9277bbd7248a03dce52")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1a5d455fc3a12e367b2dc30e97ebd4bd96109199")]
 [assembly: System.Reflection.AssemblyProductAttribute("NorthWind.ConsoleApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("NorthWind.ConsoleApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
