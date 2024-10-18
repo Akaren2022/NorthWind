@@ -2,13 +2,10 @@
 using Microsoft.Extensions.Hosting;
 using NorthWind.ConsoleApp.Services;
 using NorthWind.Entities.Interfaces;
-using NorthWind.Writters;
 
 HostApplicationBuilder Builder = Host.CreateApplicationBuilder();
 
-Builder.Services.AddConsoleWritter();
-Builder.Services.AddDebugWritter();
-Builder.Services.AddFileWritter();
+Builder.Services.AddNorthWindServices();
 
 Builder.Services.AddSingleton<AppLogger>();
 Builder.Services.AddSingleton<ProductService>();
