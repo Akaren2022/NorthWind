@@ -613,19 +613,6 @@
         "runtime": {
           "bin/placeholder/NorthWind.Entities.dll": {}
         }
-      },
-      "NorthWind.Writters/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v8.0",
-        "dependencies": {
-          "NorthWind.Entities": "1.0.0"
-        },
-        "compile": {
-          "bin/placeholder/NorthWind.Writters.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/NorthWind.Writters.dll": {}
-        }
       }
     }
   },
@@ -1563,18 +1550,12 @@
       "type": "project",
       "path": "../NorthWind.Entities/NorthWind.Entities.csproj",
       "msbuildProject": "../NorthWind.Entities/NorthWind.Entities.csproj"
-    },
-    "NorthWind.Writters/1.0.0": {
-      "type": "project",
-      "path": "../NorthWind.Writters/NorthWind.Writters.csproj",
-      "msbuildProject": "../NorthWind.Writters/NorthWind.Writters.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net8.0": [
       "Microsoft.Extensions.Hosting >= 8.0.1",
-      "NorthWind.Entities >= 1.0.0",
-      "NorthWind.Writters >= 1.0.0"
+      "NorthWind.Entities >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -1607,9 +1588,6 @@
           "projectReferences": {
             "C:\\Users\\Zarkprogame\\MyCode\\Aitana\\NorthWind\\NorthWind.Entities\\NorthWind.Entities.csproj": {
               "projectPath": "C:\\Users\\Zarkprogame\\MyCode\\Aitana\\NorthWind\\NorthWind.Entities\\NorthWind.Entities.csproj"
-            },
-            "C:\\Users\\Zarkprogame\\MyCode\\Aitana\\NorthWind\\NorthWind.Writters\\NorthWind.Writters.csproj": {
-              "projectPath": "C:\\Users\\Zarkprogame\\MyCode\\Aitana\\NorthWind\\NorthWind.Writters\\NorthWind.Writters.csproj"
             }
           }
         }

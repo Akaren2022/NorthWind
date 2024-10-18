@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace NorthWind.Writters
 {
-	public class FileWritter : IUserActionWriter
+	internal class FileWritter : IUserActionWriter
 	{
 		public void Write(UserAction action)
 		{

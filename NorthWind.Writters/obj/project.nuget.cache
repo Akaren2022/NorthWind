@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "2BGNuwXbJgc=",
+  "dgSpecHash": "X37X5rTdtoA=",
   "success": true,
   "projectFilePath": "C:\\Users\\Zarkprogame\\MyCode\\Aitana\\NorthWind\\NorthWind.Writters\\NorthWind.Writters.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Zarkprogame\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.2\\microsoft.extensions.dependencyinjection.abstractions.8.0.2.nupkg.sha512"
+  ],
   "logs": []
 }

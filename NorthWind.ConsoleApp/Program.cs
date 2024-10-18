@@ -4,11 +4,12 @@ using NorthWind.ConsoleApp.Services;
 using NorthWind.Entities.Interfaces;
 using NorthWind.Writters;
 
-var Builder = Host.CreateApplicationBuilder();
+HostApplicationBuilder Builder = Host.CreateApplicationBuilder();
 
-Builder.Services.AddSingleton<IUserActionWriter, ConsoleWritter>();
-Builder.Services.AddSingleton<IUserActionWriter, DebugWritter>();
-Builder.Services.AddSingleton<IUserActionWriter, FileWritter>();
+Builder.Services.AddConsoleWritter();
+Builder.Services.AddDebugWritter();
+Builder.Services.AddFileWritter();
+
 Builder.Services.AddSingleton<AppLogger>();
 Builder.Services.AddSingleton<ProductService>();
 using IHost AppHost = Builder.Build();
