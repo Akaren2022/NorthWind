@@ -5,9 +5,13 @@ VisualStudioVersion = 17.11.35327.3
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NorthWind.Entities", "NorthWind.Entities\NorthWind.Entities.csproj", "{0FA27704-1D33-4BFE-8C2C-1D8ABBCF0C85}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NorthWind.ConsoleApp", "NorthWind.ConsoleApp\NorthWind.ConsoleApp.csproj", "{199E2F64-A1B4-4316-AE86-E33A9C7506BF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NorthWind.ConsoleApp", "NorthWind.ConsoleApp\NorthWind.ConsoleApp.csproj", "{199E2F64-A1B4-4316-AE86-E33A9C7506BF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NorthWind.Writters", "NorthWind.Writters\NorthWind.Writters.csproj", "{226FF080-90FD-49B6-8B6B-39F2E0D13B06}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NorthWind.Writters", "NorthWind.Writters\NorthWind.Writters.csproj", "{226FF080-90FD-49B6-8B6B-39F2E0D13B06}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NorthWind.IoC", "NorthWind.IoC\NorthWind.IoC.csproj", "{93595951-8F1B-4E01-AC0C-BDF3F3446C44}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NorthWind.Core", "NorthWind.Core\NorthWind.Core.csproj", "{33C15B97-420D-40D2-A29B-A46EA633FA2C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +31,14 @@ Global
 		{226FF080-90FD-49B6-8B6B-39F2E0D13B06}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{226FF080-90FD-49B6-8B6B-39F2E0D13B06}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{226FF080-90FD-49B6-8B6B-39F2E0D13B06}.Release|Any CPU.Build.0 = Release|Any CPU
+		{93595951-8F1B-4E01-AC0C-BDF3F3446C44}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93595951-8F1B-4E01-AC0C-BDF3F3446C44}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93595951-8F1B-4E01-AC0C-BDF3F3446C44}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93595951-8F1B-4E01-AC0C-BDF3F3446C44}.Release|Any CPU.Build.0 = Release|Any CPU
+		{33C15B97-420D-40D2-A29B-A46EA633FA2C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33C15B97-420D-40D2-A29B-A46EA633FA2C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33C15B97-420D-40D2-A29B-A46EA633FA2C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33C15B97-420D-40D2-A29B-A46EA633FA2C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -604,6 +604,20 @@
           }
         }
       },
+      "NorthWind.Core/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "8.0.2",
+          "NorthWind.Entities": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/NorthWind.Core.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/NorthWind.Core.dll": {}
+        }
+      },
       "NorthWind.Entities/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v8.0",
@@ -618,6 +632,7 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v8.0",
         "dependencies": {
+          "NorthWind.Core": "1.0.0",
           "NorthWind.Writters": "1.0.0"
         },
         "compile": {
@@ -1572,6 +1587,11 @@
         "system.diagnostics.eventlog.nuspec",
         "useSharedDesignerContext.txt"
       ]
+    },
+    "NorthWind.Core/1.0.0": {
+      "type": "project",
+      "path": "../NorthWind.Core/NorthWind.Core.csproj",
+      "msbuildProject": "../NorthWind.Core/NorthWind.Core.csproj"
     },
     "NorthWind.Entities/1.0.0": {
       "type": "project",

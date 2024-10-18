@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "g3MCx4YpwL8=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Zarkprogame\\MyCode\\Aitana\\NorthWind\\NorthWind.Core\\NorthWind.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Zarkprogame\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.2\\microsoft.extensions.dependencyinjection.abstractions.8.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

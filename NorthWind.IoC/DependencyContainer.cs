@@ -8,6 +8,7 @@ public static class DependencyContainer
 		this IServiceCollection services)
 	{
 		services.AddDebugWritter();
+		services.AddServices();
 		return services;
 	}
 }
